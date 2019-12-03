@@ -1,0 +1,46 @@
+[{
+        "nombre": "Buba",
+        "edad": 4,
+        "peso": 10.5,
+        "estaVivo": true,
+        "propietario": {
+            "nombre": "Leo",
+            "edad": 27,
+            "direccion": "Col. Uno, Calle uno #1"
+        },
+        "cuidados": [
+            "Bañado en seco",
+            "Sacarlo a pasear una vez al día"
+        ]
+    },
+    {
+        "nombre": "Panfilo",
+        "edad": 2,
+        "peso": 10.5,
+        "estaVivo": true,
+        "propietario": {
+            "nombre": "Dani",
+            "edad": 21,
+            "direccion": "Col. Dos, Calle uno #2"
+        },
+        "cuidados": [
+            "Bañado en seco",
+            "Sacarlo a pasear una vez al día"
+        ]
+    },
+    {
+        "nombre": "Pulga",
+        "edad": 1,
+        "peso": 5,
+        "estaVivo": true,
+        "propietario": {
+            "nombre": "Ale",
+            "edad": 24,
+            "direccion": "Col. Tres, Calle uno #3"
+        },
+        "cuidados": [
+            "Bañado en seco",
+            "Sacarlo a pasear una vez al día"
+        ]
+    }
+]
